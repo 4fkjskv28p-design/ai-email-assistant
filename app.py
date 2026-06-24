@@ -3,6 +3,7 @@ from datetime import datetime
 import uuid
 import mail_assistant
 from mail_assistant import polish_email, send_email
+import os
 
 
 # ===== 页面视觉配置 =====

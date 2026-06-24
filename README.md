@@ -15,5 +15,5 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/ai-email-assistant.git
+git clone https://github.com/4fkjskv28p-design/ai-email-assistant.git
 cd ai-email-assistant
