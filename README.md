@@ -35,5 +35,5 @@ MAIL_SENDER=你的邮箱@qq.com
 
 ## 📸 界面预览
 ![主界面](screenshots/main.png)
-![历史记录](screenshots/setting.png)
+![历史记录](screenshots/history.png)
 ![成功发送](screenshots/send_success.png)
