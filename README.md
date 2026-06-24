@@ -13,7 +13,26 @@
 ## 🚀 快速开始
 
 ### 1. 克隆项目
-
-```bash
-git clone https://github.com/4fkjskv28p-design/ai-email-assistant.git
+bash
+git clone <https://github.com/4fkjskv28p-design/ai-email-assistant.git>
 cd ai-email-assistant
+
+### 2. 安装依赖
+
+pip install -r requirements.txt
+
+### 3. 配置环境变量
+
+在项目根目录创建 .env 文件，填入以下内容：
+DEEPSEEK_API_KEY=你的DeepSeek API密钥
+MAIL_AUTH_CODE=你的邮箱授权码
+MAIL_SENDER=你的邮箱@qq.com
+
+### 4.运行应用
+
+在终端/命令提示符中运行： streamlit run app.py
+就可以在浏览器中打开 <http://localhost:8501> 即可使用。
+
+## 📸 界面预览
+![主界面](screenshots/main.png)
+![历史记录](screenshots/history.png)
