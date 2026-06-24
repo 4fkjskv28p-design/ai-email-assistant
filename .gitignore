@@ -25,3 +25,4 @@ mail_output.txt   # 你的本地保存的邮件，也不应上传
 
 # Streamlit
 .streamlit/.DS_Store
+.DS_Store
