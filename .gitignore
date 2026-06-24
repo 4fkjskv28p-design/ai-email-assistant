@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+mail_output.txt   # 你的本地保存的邮件，也不应上传
+
+# Streamlit
+.streamlit/
